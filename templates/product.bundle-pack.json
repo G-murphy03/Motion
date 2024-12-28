@@ -23,7 +23,7 @@
         "custom_jz8x3q": {
           "type": "custom",
           "settings": {
-            "code": "<div class=\"size-width\">\n<h4>Pick your size</h4>\n<div class=\"div-button\">\n<a href= \"https://elevatesupplements.com.au/collections/creatine-gummies/products/mini-pack-sour-blue-raspberry\">\n<button class=\"shop-button non-select-button\">\nMini Pack - 10 Day Supply\n</button>\n</a>\n<a href=\"https://elevatesupplements.com.au/products/value-pack-sour-blue-raspberry\"><button class=\"shop-button non-select-button\">\nValue Pack - 1 Month Supply</button>\n<a href=\"https://elevatesupplements.com.au/products/bundle-pack\"><button class=\"shop-button select-button\">\nBundle Pack - 2 Month Supply\n</button>\n</a>\n</div>\n</div>"
+            "code": "<div class=\"size-width\">\n<h4>Pick your size</h4>\n<div class=\"div-button\">\n<a href= \"https://elevatesupplements.com.au/collections/creatine-gummies/products/mini-pack-sour-blue-raspberry\">\n<button class=\"shop-button non-select-button\">\nMini Pack - 10 Day Supply\n</button>\n</a>\n<a href=\"https://elevatesupplements.com.au/products/value-pack-sour-blue-raspberry\"><button class=\"shop-button non-select-button\">\nValue Pack - 1 Month Supply</button>\n<a href=\"https://elevatesupplements.com.au/products/bundle-pack\"><button class=\"shop-button non-select-button\">\nBundle Pack - 2 Month Supply\n</button>\n</a>\n</div>\n</div>"
           }
         },
         "variant_picker": {
