@@ -23,7 +23,7 @@
         "custom_qFw67F": {
           "type": "custom",
           "settings": {
-            "code": "<h4>Pick your size</h4>\n<div class=\"div-button\">\n<button class=\"shop-button select-button\">\n<a href= \"https://elevatesupplements.com.au/collections/creatine-gummies/products/mini-pack-sour-blue-raspberry\">\nMini Pack - 30 Gummies\n</a>\n</button>\n<button class=\"shop-button\">\n<a\nhref=\"https://elevatesupplements.com.au/products/value-pack-sour-blue-raspberry\">\nValue Pack - 90 Gummies\n</a>\n</button>\n</div>"
+            "code": "<h4>Pick your size</h4>\n<div class=\"div-button\">\n<button class=\"shop-button select-button\">\n<a href= \"https://elevatesupplements.com.au/collections/creatine-gummies/products/mini-pack-sour-blue-raspberry\">\nMini Pack - 30 Gummies\n</a>\n</button>\n<button class=\"shop-button highlight-button\">\n<a\nhref=\"https://elevatesupplements.com.au/products/value-pack-sour-blue-raspberry\">\nValue Pack - 90 Gummies\n</a>\n</button>\n</div>"
           }
         },
         "variant_picker": {
