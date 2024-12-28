@@ -1,1 +1,832 @@
-{"sections":{"hero-video":{"type":"hero-video","custom_css":[],"settings":{"title":"Practical creatine\nSee results","title_size":52,"subheading":"Find your confidence","link_text":"Shop now","link":"shopify:\/\/collections\/creatine-gummies","text_align":"vertical-center horizontal-center","video_url":"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c69cba128c044c1b9f53ff0767678c6e.mp4","overlay_opacity":0,"section_height":"100vh","mobile_height":"100vh"}},"ss_feature_1_yQrN4M":{"type":"ss-feature-1","blocks":{"image_ReAWVY":{"type":"image","settings":{"feature_title":"Build Lean Muscle Mass","feature_text":"","feature_image":"shopify:\/\/shop_images\/strength.png","feature_url":"","hide_image":false}},"image_FifkV6":{"type":"image","settings":{"feature_title":"Faster Recovery","feature_text":"","feature_image":"shopify:\/\/shop_images\/fast-time.png","feature_url":"","hide_image":false}},"image_mUmagA":{"type":"image","settings":{"feature_title":"Increased Energy","feature_text":"","feature_image":"shopify:\/\/shop_images\/bolt.png","feature_url":"","hide_image":false}},"image_AJJd3Y":{"type":"image","settings":{"feature_title":"Enhanced Cognition","feature_text":"","feature_image":"shopify:\/\/shop_images\/brain-organ.png","feature_url":"","hide_image":false}}},"block_order":["image_ReAWVY","image_FifkV6","image_mUmagA","image_AJJd3Y"],"disabled":true,"settings":{"feature_row":4,"feature_row_mobile":2,"feature_gap":60,"feature_gap_mobile":10,"feature_padding_horizontal":24,"feature_padding_vertical":12,"feature_radius":24,"feature_border_thickness":0,"feature_shadow":false,"feature_heading_custom":false,"feature_heading_font":"open_sans_n3","feature_heading_size":24,"feature_heading_size_mobile":16,"feature_heading_height":130,"feature_heading_mt":10,"feature_text_custom":false,"feature_text_font":"open_sans_n3","feature_text_size":24,"feature_text_size_mobile":12,"feature_text_height":130,"feature_text_mt":0,"feature_icon_size":42,"feature_icon_size_mobile":42,"feature_bg":"#ffffff","feature_border_color":"#ffffff","feature_shadow_color":"#000000","feature_heading_color":"#1c1d1d","feature_text_color":"#000000","feature_icon_color":"#000000","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":0,"padding_top":16,"padding_bottom":16,"padding_horizontal":5,"padding_horizontal_mobile":1.5,"full_width":true,"content_width":120,"border_thickness":0,"lazy":true}},"ss_feature_9_YgVWpU":{"type":"ss-feature-9","blocks":{"feature_PAM34X":{"type":"feature","settings":{"icon":"shopify:\/\/shop_images\/muscle.png","title":"<h4>2x Increase in Lean Muscle Mass<\/h4>","text":"<p><a href=\"https:\/\/doi.org\/10.1007\/978-1-59745-573-2\" target=\"_blank\" title=\"https:\/\/doi.org\/10.1007\/978-1-59745-573-2\">(Antonio, et al., 2008)<\/a><\/p>"}},"feature_gg3Piw":{"type":"feature","settings":{"icon":"shopify:\/\/shop_images\/bolt.png","title":"<h4>40% Increase in Energy<\/h4>","text":"<p><a href=\"https:\/\/doi.org\/10.1186\/s12970-017-0173-z\" target=\"_blank\" title=\"https:\/\/doi.org\/10.1186\/s12970-017-0173-z\">(Kreider et al., 2017)<\/a><\/p>"}},"feature_KRnRdJ":{"type":"feature","settings":{"icon":"shopify:\/\/shop_images\/fast-time.png","title":"<h4>21% Improvement in Recovery <\/h4>","text":"<p><a href=\"https:\/\/doi.org\/10.1186\/1550-2783-6-13\" target=\"_blank\" title=\"https:\/\/doi.org\/10.1186\/1550-2783-6-13\">(Cooke et al., 2009)<\/a><\/p>"}},"feature_eFqMnV":{"type":"feature","settings":{"icon":"shopify:\/\/shop_images\/brain-organ.png","title":"<h4>10% Increase in Cognition<\/h4>","text":"<p><a href=\"https:\/\/www.mdpi.com\/2072-6643\/13\/2\/586\" target=\"_blank\" title=\"https:\/\/www.mdpi.com\/2072-6643\/13\/2\/586\">(Roschel et al., 2021)<\/a><\/p>"}},"feature_pHMCFF":{"type":"feature","settings":{"icon":"shopify:\/\/shop_images\/powerlifting.png","title":"<h4>14% Increase in Performance<\/h4>","text":"<p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/14636102\/\" target=\"_blank\" title=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/14636102\/\">(Rawson & Volek, 2003)<\/a><\/p>"}},"feature_7dMrWR":{"type":"feature","settings":{"icon":"shopify:\/\/shop_images\/workout.png","title":"<h4>15% Increase in Muscle Strength<\/h4>","text":"<p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/12701815\/\" target=\"_blank\" title=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/12701815\/\">(Kreider, 2003)<\/a><\/p>"}}},"block_order":["feature_PAM34X","feature_gg3Piw","feature_KRnRdJ","feature_eFqMnV","feature_pHMCFF","feature_7dMrWR"],"custom_css":["@media only screen and (min-width: 1024px) {.padding-fix {padding-left: 100px; padding-right: 100px; }}","@media only screen and (min-width: 1366px) {.padding-fix {padding-left: 110px; padding-right: 110px; }}","@media only screen and (min-width: 431px) {h2 {font-size: 48px; } h4 {font-size: 20px; } p {font-size: 16px; }}"],"settings":{"grid_gap":50,"grid_gap_mobile":40,"heading":"<h2>Benefits of daily use<\/h2>","heading_custom":false,"heading_font":"josefin_sans_n4","heading_size":48,"heading_size_mobile":32,"heading_height":110,"heading_align":"left","heading_align_mobile":"left","items_row":2,"items_row_mobile":1,"items_gap":100,"items_gap_mobile":20,"items_mt":48,"icon_size":40,"icon_size_mobile":32,"icon_padding_vertical":16,"icon_padding_vertical_mobile":12,"icon_padding_horizontal":16,"icon_padding_horizontal_mobile":12,"icon_radius":50,"icon_border_thickness":0,"icon_align":"left","icon_align_mobile":"left","icon_row":false,"icon_row_mobile":true,"hide_icon":false,"title_custom":false,"title_font":"open_sans_n3","title_size":20,"title_size_mobile":18,"title_height":130,"title_align":"left","title_align_mobile":"left","title_mt":16,"text_custom":false,"text_font":"josefin_sans_n4","text_size":16,"text_size_mobile":16,"text_height":150,"text_align":"left","text_align_mobile":"left","text_mt":16,"image":"shopify:\/\/shop_images\/untitled-9_1.jpg","image_width":44,"image_width_mobile":100,"image_position":"row","image_row_position":"row","image_column_position":"column","image_column_position_mobile":"column","image_ratio":"portrait","image_ratio_mobile":"square","image_border_thickness":0,"image_radius":6,"hide_image":false,"icon_bg_color":"#a5b2ca","icon_border_color":"#000000","title_color":"#000000","text_color":"#000000","heading_color":"#000000","image_border_color":"#000000","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":0,"padding_top":36,"padding_bottom":36,"padding_horizontal":0,"padding_horizontal_mobile":1.5,"full_width":false,"content_width":140,"border_thickness":0,"lazy":true}},"text_columns_bREaBa":{"type":"text-columns","blocks":{"text_block_EzwNRq":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/untitled-14.jpg","image_mask":"portrait","image_width":650,"title":"Open pouch","text":"","button_label":"","button_link":""}},"text_block_N7cUhH":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/untitled-16.jpg","image_mask":"portrait","image_width":650,"title":"Enjoy 3 gummies daily","text":"","button_label":"","button_link":""}},"text_block_yRbFCR":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/Gym_2_1_b4f8d05f-42f7-4a62-ad35-dcdf163094ac.jpg","image_mask":"portrait","image_width":650,"title":"Exercise & stay hydrated","text":"","button_label":"","button_link":""}}},"block_order":["text_block_EzwNRq","text_block_N7cUhH","text_block_yRbFCR"],"custom_css":["h2 {font-size: 48px;}","h3 {font-size: 36px;}","@media only screen and (max-width: 430px) {h2 {font-size: 32px; } h3 {font-size: 32px; }}","@media only screen and (min-width: 768px) and (max-width: 1024px) {.padding-fix {padding-left: 24px; padding-right: 24px; \/* Adjust padding size as needed *\/ }}","@media only screen and (min-width: 1024px) and (max-width: 1366px) {.padding-fix {padding-left: 100px; padding-right: 100px; \/* Adjust padding size as needed *\/ }}"],"settings":{"title":"Creatine made simple","align_text":"center","divider":false}},"ss_steps_6_TMiVMp":{"type":"ss-steps-6","blocks":{"step_bMGkkx":{"type":"step","settings":{"title":"Tested by an Australian Accredited Laboratory","text":"<p>Proudly partnered with ACS Laboratories. <strong>All test results made public at <\/strong><a href=\"https:\/\/elevatesupplements.com.au\/pages\/elevate-lab\" title=\"https:\/\/elevatesupplements.com.au\/pages\/elevate-lab\"><strong>Elevate Lab.<\/strong><\/a><\/p>"}},"step_RYxnEh":{"type":"step","settings":{"title":"Recommended by Dieticians","text":"<p>Supported by some of Australian's best accredited sports dieticians. <\/p>"}},"step_6CVd9g":{"type":"step","settings":{"title":"Loved by Athletes","text":"<p>Batch tested by HASTA for WADA banned substances.<\/p>"}}},"block_order":["step_bMGkkx","step_RYxnEh","step_6CVd9g"],"custom_css":["@media only screen and (min-width: 1024px) and (max-width: 1366px) {.padding-fix {padding-left: 110px; padding-right: 110px; \/* Adjust padding size as needed *\/ }}","@media only screen and (min-width: 768px) and (max-width: 1023px) {.padding-fix {padding-left: 30px; padding-right: 30px; }}","@media only screen and (min-width: 431px) {h2 {font-size: 48px; } h3 {font-size: 20px; } p {font-size: 16px; }}"],"settings":{"heading":"<h2>Why trust Elevate?<\/h2>","heading_custom":false,"heading_font":"helvetica_n4","heading_size":48,"heading_size_mobile":32,"heading_height":110,"heading_width":70,"heading_align":"left","heading_align_mobile":"left","sub_heading":"","sub_heading_custom":false,"sub_heading_font":"open_sans_n3","sub_heading_size":20,"sub_heading_size_mobile":18,"sub_heading_height":110,"sub_heading_width":70,"sub_heading_mt":22,"sub_heading_mt_mobile":12,"sub_heading_align":"left","sub_heading_align_mobile":"left","items_gap":36,"items_gap_mobile":22,"items_mt_mobile":20,"step_gap":40,"step_gap_mobile":24,"number_custom":false,"number_font":"open_sans_n3","number_size":36,"number_size_mobile":36,"number_height":100,"title_custom":false,"title_font":"open_sans_n3","title_size":20,"title_size_mobile":20,"title_height":120,"text_custom":false,"text_font":"open_sans_n3","text_size":16,"text_size_mobile":18,"text_height":150,"text_mt":6,"text_mt_mobile":6,"number_color":"#5d687e","title_color":"#000000","text_color":"#000000","heading_color":"#000000","sub_heading_color":"#000000","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":0,"margin_horizontal":0,"margin_horizontal_mobile":0,"padding_top":32,"padding_bottom":36,"padding_horizontal":0,"padding_horizontal_mobile":1.5,"full_width":false,"content_width":1200,"border_thickness":0,"section_radius":0}},"faq_hpztPz":{"type":"faq","blocks":{"question_qNP4yc":{"type":"question","settings":{"title":"Frequently asked question","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}},"question_RcNtYC":{"type":"question","settings":{"title":"Frequently asked question","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}}},"block_order":["question_qNP4yc","question_RcNtYC"],"disabled":true,"settings":{"title":"FAQs"}},"ss_feature_13_PBYdh3":{"type":"ss-feature-13","blocks":{"item_LRVRN6":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/american-flag.png","icon":"time","title":"USA Manufactured","text":""}},"item_6jGF4M":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/checkmark.png","icon":"bi-ecology","title":"FDA Approved Facility","text":""}},"item_8iwFWT":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/thumbs-up.png","icon":"plant","title":"GMP Certified","text":""}},"item_xJkqAb":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/vegan_1.png","icon":"plant","title":"Vegan","text":""}},"item_P9JXVJ":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/gluten-free_1.png","icon":"heart","title":"GLUTEN FREE","text":""}},"item_iJgcr6":{"type":"item","settings":{"icon":"bi-ecology","title":"Non-GMO","text":""}}},"block_order":["item_LRVRN6","item_6jGF4M","item_8iwFWT","item_xJkqAb","item_P9JXVJ","item_iJgcr6"],"settings":{"heading":"","heading_custom":false,"heading_font":"josefin_sans_n4","heading_size":52,"heading_size_mobile":32,"heading_height":150,"heading_align":"center","heading_align_mobile":"center","body_gap":90,"items_gap":100,"items_gap_mobile":14,"items_mt":12,"items_mt_mobile":0,"image":"shopify:\/\/shop_images\/value_pack_2d4b4187-d2b3-42c1-adfa-57fda347071d.png","image_position":"center","image_position_mobile":"first","image_ratio":"original","image_ratio_mobile":"original","image_radius":0,"image_border_thickness":0,"content_align":"center","content_align_mobile":"center","icon_size":54,"icon_size_mobile":34,"title_custom":false,"title_font":"open_sans_n3","title_size":22,"title_size_mobile":16,"title_height":120,"title_mt":16,"title_mt_mobile":8,"text_custom":false,"text_font":"open_sans_n3","text_size":22,"text_size_mobile":18,"text_height":130,"text_mt":0,"text_mt_mobile":6,"text_hide_mobile":true,"button":"Shop now","button_url":"shopify:\/\/collections\/creatine-gummies","button_custom":false,"button_font":"open_sans_n3","button_size":20,"button_size_mobile":16,"button_height":80,"button_width":200,"button_width_mobile":200,"button_mt":0,"button_mt_mobile":22,"button_padding_vertical":16,"button_padding_vertical_mobile":16,"button_padding_horizontal":0,"button_padding_horizontal_mobile":22,"button_radius":6,"button_border_thickness":1,"button_align":"center","button_align_mobile":"center","button_style":"non_outline","button_position":"bottom","button_color":"#ffffff","button_hover_color":"#000000","button_bg_color":"#5d687e","button_bg_hover_color":"#a5b2ca","button_border_color":"#ffffff","button_border_hover_color":"#ffffff","icon_color":"#000000","title_color":"#131313","text_color":"#131313","heading_color":"#131313","image_border_color":"#000000","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":76,"margin_horizontal":0,"margin_horizontal_mobile":0,"padding_top":0,"padding_bottom":36,"padding_horizontal":5,"padding_horizontal_mobile":1.5,"full_width":false,"content_width":160,"section_radius":0,"border_thickness":0,"lazy":true}},"rich_text_krwFV9":{"type":"rich-text","blocks":{"heading_eUwBUV":{"type":"heading","settings":{"title":"Learn about Creatine"}}},"block_order":["heading_eUwBUV"],"custom_css":[".index-section {margin: 0 0 -30px 0;}","h2 {font-size: 48px;}","@media screen and (max-width: 480px) {h2 {font-size: 32px; \/* Adjust font size for smaller screens *\/ }}"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"ss_slider_7_WN9BTM":{"type":"ss-slider-7","blocks":{"card_KA8q3B":{"type":"card","settings":{"tag":"","heading":"<h3>Creatine Gummies Failing to Meet Label Claims<\/h3>","text":"<p>Learn how to identify fake gummies on the market<\/p>","image":"shopify:\/\/shop_images\/Screen_Shot_2024-11-21_at_9.34.32_pm_0fd371b3-d501-47b8-8efd-cf3271c60569.png","url":"shopify:\/\/blogs\/learn-about-creatine\/creatine-gummies-failing-to-meet-label-claims","card_bg_color":"#ffffff","card_border_color":"#000000","tag_color":"#6e6e73","heading_color":"#1d1d1f","text_color":"#1d1d1f","image_border_color":"#000000"}},"card_7H8VDm":{"type":"card","settings":{"tag":"","heading":"<h3>Creatine for Women<\/h3>","text":"<p>Exploring the benefits and misconceptions of creatine supplementation for women<\/p>","image":"shopify:\/\/shop_images\/pexels-pixabay-416747.jpg","url":"shopify:\/\/blogs\/learn-about-creatine\/creatine-for-women-it-s-benefits-and-misconceptions","card_bg_color":"#ffffff","card_border_color":"#000000","tag_color":"#6e6e73","heading_color":"#1d1d1f","text_color":"#1d1d1f","image_border_color":"#000000"}},"card_GGEamE":{"type":"card","settings":{"tag":"","heading":"<h3>Creatine and Energy<\/h3>","text":"<p>Learn about the importance of creatine supplementation on ATP reproduction<\/p>","image":"shopify:\/\/shop_images\/ig-square-1080-x-1080-pexels-bamboo-ave-677926128-29205121-jpg_custom_resized.jpg","url":"shopify:\/\/blogs\/learn-about-creatine\/the-primary-function-of-creatine-supplementation","card_bg_color":"#ffffff","card_border_color":"#000000","tag_color":"#6e6e73","heading_color":"#1d1d1f","text_color":"#1d1d1f","image_border_color":"#000000"}},"card_gLRAHx":{"type":"card","settings":{"tag":"","heading":"<h3>Creatine for Vegans<\/h3>","text":"<p>Learn the importance of of creatine supplementation for vegans<\/p>","image":"shopify:\/\/shop_images\/1-1-square-pexels-yaroslav-shuraev-8845647-jpg_custom_resized.jpg","url":"shopify:\/\/blogs\/learn-about-creatine\/the-importance-of-creatine-supplementation-for-vegans","card_bg_color":"#ffffff","card_border_color":"#000000","tag_color":"#6e6e73","heading_color":"#1d1d1f","text_color":"#1d1d1f","image_border_color":"#000000"}},"card_8QAgme":{"type":"card","settings":{"tag":"","heading":"<h1>Creatine and Recovery<\/h1>","text":"<p>Understanding the impact of creatine supplementation on post-workout recovery<\/p>","image":"shopify:\/\/shop_images\/pexels-tima-miroshnichenko-6388369.jpg","url":"shopify:\/\/blogs\/learn-about-creatine\/exploring-the-impact-of-creatine-on-post-workout-recovery","card_bg_color":"#ffffff","card_border_color":"#000000","tag_color":"#6e6e73","heading_color":"#1d1d1f","text_color":"#1d1d1f","image_border_color":"#000000"}}},"block_order":["card_KA8q3B","card_7H8VDm","card_GGEamE","card_gLRAHx","card_8QAgme"],"settings":{"slider_view":3.3,"slider_view_mobile":1.1,"slider_gap":18,"slider_gap_mobile":16,"slider_mt":18,"slider_mt_mobile":34,"card_padding_top":12,"card_padding_top_mobile":12,"card_padding_bottom":18,"card_padding_bottom_mobile":18,"card_radius":24,"card_border_thickness":0,"card_shadow":true,"card_height":true,"content_horizontal_align":"center","content_horizontal_align_mobile":"center","content_padding_horizontal":12,"content_padding_horizontal_mobile":12,"tag_custom":false,"tag_font":"josefin_sans_n4","tag_size":12,"tag_size_mobile":12,"tag_height":130,"heading_custom":false,"heading_font":"helvetica_n4","heading_size":26,"heading_size_mobile":30,"heading_height":120,"heading_mt":4,"heading_mt_mobile":4,"text_custom":false,"text_font":"open_sans_n3","text_size":18,"text_size_mobile":20,"text_height":120,"text_mt":18,"text_mt_mobile":12,"image_mt":12,"image_mt_mobile":16,"image_radius":12,"image_border_thickness":0,"image_padding_horizontal":30,"image_padding_horizontal_mobile":30,"image_ratio":"square","image_ratio_mobile":"square","pagination_padding_vertical":4,"pagination_padding_vertical_mobile":4,"pagination_padding_horizontal":6,"pagination_padding_horizontal_mobile":6,"pagination_radius":8,"pagination_border_thickness":0,"pagination_custom":false,"pagination_font":"open_sans_n3","pagination_size":16,"pagination_size_mobile":16,"pagination_height":130,"pagination_show_desktop":false,"pagination_show_mobile":false,"arrow_size":38,"arrow_size_mobile":30,"arrow_icon_size":8,"arrow_icon_size_mobile":8,"arrow_border_thickness":1,"arrow_radius":100,"arrow_hover_effect":"color","arrow_show_desktop":true,"arrow_show_mobile":false,"pagination_bg_color":"#a5b2ca","pagination_border_color":"#000000","pagination_color":"#969696","arrow_color":"#000000","arrow_hover_color":"#000000","arrow_bg_color":"#f8f8f8","arrow_bg_hover_color":"#fafafa","arrow_border_color":"#a5b2ca","arrow_border_hover_color":"#5d687e","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":40,"margin_horizontal":0,"margin_horizontal_mobile":0,"padding_top":0,"padding_bottom":36,"padding_horizontal":7,"padding_horizontal_mobile":1.5,"full_width":false,"content_width":120,"border_thickness":0,"section_radius":0,"lazy":true}}},"order":["hero-video","ss_feature_1_yQrN4M","ss_feature_9_YgVWpU","text_columns_bREaBa","ss_steps_6_TMiVMp","faq_hpztPz","ss_feature_13_PBYdh3","rich_text_krwFV9","ss_slider_7_WN9BTM"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "hero-video": {
+      "type": "hero-video",
+      "custom_css": [],
+      "settings": {
+        "title": "Practical creatine\nSee results",
+        "title_size": 52,
+        "subheading": "Find your confidence",
+        "link_text": "Shop now",
+        "link": "shopify://products/value-pack-sour-blue-raspberry",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/c69cba128c044c1b9f53ff0767678c6e.mp4",
+        "overlay_opacity": 0,
+        "section_height": "100vh",
+        "mobile_height": "100vh"
+      }
+    },
+    "ss_feature_1_yQrN4M": {
+      "type": "ss-feature-1",
+      "blocks": {
+        "image_ReAWVY": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Build Lean Muscle Mass",
+            "feature_text": "",
+            "feature_image": "shopify://shop_images/strength.png",
+            "feature_url": "",
+            "hide_image": false
+          }
+        },
+        "image_FifkV6": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Faster Recovery",
+            "feature_text": "",
+            "feature_image": "shopify://shop_images/fast-time.png",
+            "feature_url": "",
+            "hide_image": false
+          }
+        },
+        "image_mUmagA": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Increased Energy",
+            "feature_text": "",
+            "feature_image": "shopify://shop_images/bolt.png",
+            "feature_url": "",
+            "hide_image": false
+          }
+        },
+        "image_AJJd3Y": {
+          "type": "image",
+          "settings": {
+            "feature_title": "Enhanced Cognition",
+            "feature_text": "",
+            "feature_image": "shopify://shop_images/brain-organ.png",
+            "feature_url": "",
+            "hide_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_ReAWVY",
+        "image_FifkV6",
+        "image_mUmagA",
+        "image_AJJd3Y"
+      ],
+      "disabled": true,
+      "settings": {
+        "feature_row": 4,
+        "feature_row_mobile": 2,
+        "feature_gap": 60,
+        "feature_gap_mobile": 10,
+        "feature_padding_horizontal": 24,
+        "feature_padding_vertical": 12,
+        "feature_radius": 24,
+        "feature_border_thickness": 0,
+        "feature_shadow": false,
+        "feature_heading_custom": false,
+        "feature_heading_font": "open_sans_n3",
+        "feature_heading_size": 24,
+        "feature_heading_size_mobile": 16,
+        "feature_heading_height": 130,
+        "feature_heading_mt": 10,
+        "feature_text_custom": false,
+        "feature_text_font": "open_sans_n3",
+        "feature_text_size": 24,
+        "feature_text_size_mobile": 12,
+        "feature_text_height": 130,
+        "feature_text_mt": 0,
+        "feature_icon_size": 42,
+        "feature_icon_size_mobile": 42,
+        "feature_bg": "#ffffff",
+        "feature_border_color": "#ffffff",
+        "feature_shadow_color": "#000000",
+        "feature_heading_color": "#1c1d1d",
+        "feature_text_color": "#000000",
+        "feature_icon_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "ss_feature_9_YgVWpU": {
+      "type": "ss-feature-9",
+      "blocks": {
+        "feature_PAM34X": {
+          "type": "feature",
+          "settings": {
+            "icon": "shopify://shop_images/muscle.png",
+            "title": "<h4>2x Increase in Lean Muscle Mass</h4>",
+            "text": "<p><a href=\"https://doi.org/10.1007/978-1-59745-573-2\" target=\"_blank\" title=\"https://doi.org/10.1007/978-1-59745-573-2\">(Antonio, et al., 2008)</a></p>"
+          }
+        },
+        "feature_gg3Piw": {
+          "type": "feature",
+          "settings": {
+            "icon": "shopify://shop_images/bolt.png",
+            "title": "<h4>40% Increase in Energy</h4>",
+            "text": "<p><a href=\"https://doi.org/10.1186/s12970-017-0173-z\" target=\"_blank\" title=\"https://doi.org/10.1186/s12970-017-0173-z\">(Kreider et al., 2017)</a></p>"
+          }
+        },
+        "feature_KRnRdJ": {
+          "type": "feature",
+          "settings": {
+            "icon": "shopify://shop_images/fast-time.png",
+            "title": "<h4>21% Improvement in Recovery </h4>",
+            "text": "<p><a href=\"https://doi.org/10.1186/1550-2783-6-13\" target=\"_blank\" title=\"https://doi.org/10.1186/1550-2783-6-13\">(Cooke et al., 2009)</a></p>"
+          }
+        },
+        "feature_eFqMnV": {
+          "type": "feature",
+          "settings": {
+            "icon": "shopify://shop_images/brain-organ.png",
+            "title": "<h4>10% Increase in Cognition</h4>",
+            "text": "<p><a href=\"https://www.mdpi.com/2072-6643/13/2/586\" target=\"_blank\" title=\"https://www.mdpi.com/2072-6643/13/2/586\">(Roschel et al., 2021)</a></p>"
+          }
+        },
+        "feature_pHMCFF": {
+          "type": "feature",
+          "settings": {
+            "icon": "shopify://shop_images/powerlifting.png",
+            "title": "<h4>14% Increase in Performance</h4>",
+            "text": "<p><a href=\"https://pubmed.ncbi.nlm.nih.gov/14636102/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/14636102/\">(Rawson & Volek, 2003)</a></p>"
+          }
+        },
+        "feature_7dMrWR": {
+          "type": "feature",
+          "settings": {
+            "icon": "shopify://shop_images/workout.png",
+            "title": "<h4>15% Increase in Muscle Strength</h4>",
+            "text": "<p><a href=\"https://pubmed.ncbi.nlm.nih.gov/12701815/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/12701815/\">(Kreider, 2003)</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "feature_PAM34X",
+        "feature_gg3Piw",
+        "feature_KRnRdJ",
+        "feature_eFqMnV",
+        "feature_pHMCFF",
+        "feature_7dMrWR"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 1024px) {.padding-fix {padding-left: 100px; padding-right: 100px; }}",
+        "@media only screen and (min-width: 1366px) {.padding-fix {padding-left: 110px; padding-right: 110px; }}",
+        "@media only screen and (min-width: 431px) {h2 {font-size: 48px; } h4 {font-size: 20px; } p {font-size: 16px; }}"
+      ],
+      "settings": {
+        "grid_gap": 50,
+        "grid_gap_mobile": 40,
+        "heading": "<h2>Benefits of daily use</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 48,
+        "heading_size_mobile": 32,
+        "heading_height": 110,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "items_row": 2,
+        "items_row_mobile": 1,
+        "items_gap": 100,
+        "items_gap_mobile": 20,
+        "items_mt": 48,
+        "icon_size": 40,
+        "icon_size_mobile": 32,
+        "icon_padding_vertical": 16,
+        "icon_padding_vertical_mobile": 12,
+        "icon_padding_horizontal": 16,
+        "icon_padding_horizontal_mobile": 12,
+        "icon_radius": 50,
+        "icon_border_thickness": 0,
+        "icon_align": "left",
+        "icon_align_mobile": "left",
+        "icon_row": false,
+        "icon_row_mobile": true,
+        "hide_icon": false,
+        "title_custom": false,
+        "title_font": "open_sans_n3",
+        "title_size": 20,
+        "title_size_mobile": 18,
+        "title_height": 130,
+        "title_align": "left",
+        "title_align_mobile": "left",
+        "title_mt": 16,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_align": "left",
+        "text_align_mobile": "left",
+        "text_mt": 16,
+        "image": "shopify://shop_images/untitled-9_1.jpg",
+        "image_width": 44,
+        "image_width_mobile": 100,
+        "image_position": "row",
+        "image_row_position": "row",
+        "image_column_position": "column",
+        "image_column_position_mobile": "column",
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "square",
+        "image_border_thickness": 0,
+        "image_radius": 6,
+        "hide_image": false,
+        "icon_bg_color": "#a5b2ca",
+        "icon_border_color": "#000000",
+        "title_color": "#000000",
+        "text_color": "#000000",
+        "heading_color": "#000000",
+        "image_border_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 140,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "text_columns_bREaBa": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_EzwNRq": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/untitled-14.jpg",
+            "image_mask": "portrait",
+            "image_width": 650,
+            "title": "Open pouch",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_N7cUhH": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/untitled-16.jpg",
+            "image_mask": "portrait",
+            "image_width": 650,
+            "title": "Enjoy 3 gummies daily",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_yRbFCR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Gym_2_1_b4f8d05f-42f7-4a62-ad35-dcdf163094ac.jpg",
+            "image_mask": "portrait",
+            "image_width": 650,
+            "title": "Exercise & stay hydrated",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_EzwNRq",
+        "text_block_N7cUhH",
+        "text_block_yRbFCR"
+      ],
+      "custom_css": [
+        "h2 {font-size: 48px;}",
+        "h3 {font-size: 36px;}",
+        "@media only screen and (max-width: 430px) {h2 {font-size: 32px; } h3 {font-size: 32px; }}",
+        "@media only screen and (min-width: 768px) and (max-width: 1024px) {.padding-fix {padding-left: 24px; padding-right: 24px; /* Adjust padding size as needed */ }}",
+        "@media only screen and (min-width: 1024px) and (max-width: 1366px) {.padding-fix {padding-left: 100px; padding-right: 100px; /* Adjust padding size as needed */ }}"
+      ],
+      "settings": {
+        "title": "Creatine made simple",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "ss_steps_6_TMiVMp": {
+      "type": "ss-steps-6",
+      "blocks": {
+        "step_bMGkkx": {
+          "type": "step",
+          "settings": {
+            "title": "Tested by an Australian Accredited Laboratory",
+            "text": "<p>Proudly partnered with ACS Laboratories. <strong>All test results made public at </strong><a href=\"https://elevatesupplements.com.au/pages/elevate-lab\" title=\"https://elevatesupplements.com.au/pages/elevate-lab\"><strong>Elevate Lab.</strong></a></p>"
+          }
+        },
+        "step_RYxnEh": {
+          "type": "step",
+          "settings": {
+            "title": "Recommended by Dieticians",
+            "text": "<p>Supported by some of Australian's best accredited sports dieticians. </p>"
+          }
+        },
+        "step_6CVd9g": {
+          "type": "step",
+          "settings": {
+            "title": "Loved by Athletes",
+            "text": "<p>Batch tested by HASTA for WADA banned substances.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "step_bMGkkx",
+        "step_RYxnEh",
+        "step_6CVd9g"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 1024px) and (max-width: 1366px) {.padding-fix {padding-left: 110px; padding-right: 110px; /* Adjust padding size as needed */ }}",
+        "@media only screen and (min-width: 768px) and (max-width: 1023px) {.padding-fix {padding-left: 30px; padding-right: 30px; }}",
+        "@media only screen and (min-width: 431px) {h2 {font-size: 48px; } h3 {font-size: 20px; } p {font-size: 16px; }}"
+      ],
+      "settings": {
+        "heading": "<h2>Why trust Elevate?</h2>",
+        "heading_custom": false,
+        "heading_font": "helvetica_n4",
+        "heading_size": 48,
+        "heading_size_mobile": 32,
+        "heading_height": 110,
+        "heading_width": 70,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "open_sans_n3",
+        "sub_heading_size": 20,
+        "sub_heading_size_mobile": 18,
+        "sub_heading_height": 110,
+        "sub_heading_width": 70,
+        "sub_heading_mt": 22,
+        "sub_heading_mt_mobile": 12,
+        "sub_heading_align": "left",
+        "sub_heading_align_mobile": "left",
+        "items_gap": 36,
+        "items_gap_mobile": 22,
+        "items_mt_mobile": 20,
+        "step_gap": 40,
+        "step_gap_mobile": 24,
+        "number_custom": false,
+        "number_font": "open_sans_n3",
+        "number_size": 36,
+        "number_size_mobile": 36,
+        "number_height": 100,
+        "title_custom": false,
+        "title_font": "open_sans_n3",
+        "title_size": 20,
+        "title_size_mobile": 20,
+        "title_height": 120,
+        "text_custom": false,
+        "text_font": "open_sans_n3",
+        "text_size": 16,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 6,
+        "text_mt_mobile": 6,
+        "number_color": "#5d687e",
+        "title_color": "#000000",
+        "text_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 32,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0
+      }
+    },
+    "faq_hpztPz": {
+      "type": "faq",
+      "blocks": {
+        "question_qNP4yc": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_RcNtYC": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_qNP4yc",
+        "question_RcNtYC"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "FAQs"
+      }
+    },
+    "ss_feature_13_PBYdh3": {
+      "type": "ss-feature-13",
+      "blocks": {
+        "item_LRVRN6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/american-flag.png",
+            "icon": "time",
+            "title": "USA Manufactured",
+            "text": ""
+          }
+        },
+        "item_6jGF4M": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/checkmark.png",
+            "icon": "bi-ecology",
+            "title": "FDA Approved Facility",
+            "text": ""
+          }
+        },
+        "item_8iwFWT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/thumbs-up.png",
+            "icon": "plant",
+            "title": "GMP Certified",
+            "text": ""
+          }
+        },
+        "item_xJkqAb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/vegan_1.png",
+            "icon": "plant",
+            "title": "Vegan",
+            "text": ""
+          }
+        },
+        "item_P9JXVJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gluten-free_1.png",
+            "icon": "heart",
+            "title": "GLUTEN FREE",
+            "text": ""
+          }
+        },
+        "item_iJgcr6": {
+          "type": "item",
+          "settings": {
+            "icon": "bi-ecology",
+            "title": "Non-GMO",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_LRVRN6",
+        "item_6jGF4M",
+        "item_8iwFWT",
+        "item_xJkqAb",
+        "item_P9JXVJ",
+        "item_iJgcr6"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "body_gap": 90,
+        "items_gap": 100,
+        "items_gap_mobile": 14,
+        "items_mt": 12,
+        "items_mt_mobile": 0,
+        "image": "shopify://shop_images/value_pack_2d4b4187-d2b3-42c1-adfa-57fda347071d.png",
+        "image_position": "center",
+        "image_position_mobile": "first",
+        "image_ratio": "original",
+        "image_ratio_mobile": "original",
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "icon_size": 54,
+        "icon_size_mobile": 34,
+        "title_custom": false,
+        "title_font": "open_sans_n3",
+        "title_size": 22,
+        "title_size_mobile": 16,
+        "title_height": 120,
+        "title_mt": 16,
+        "title_mt_mobile": 8,
+        "text_custom": false,
+        "text_font": "open_sans_n3",
+        "text_size": 22,
+        "text_size_mobile": 18,
+        "text_height": 130,
+        "text_mt": 0,
+        "text_mt_mobile": 6,
+        "text_hide_mobile": true,
+        "button": "Shop now",
+        "button_url": "shopify://products/value-pack-sour-blue-raspberry",
+        "button_custom": false,
+        "button_font": "open_sans_n3",
+        "button_size": 20,
+        "button_size_mobile": 16,
+        "button_height": 80,
+        "button_width": 200,
+        "button_width_mobile": 200,
+        "button_mt": 0,
+        "button_mt_mobile": 22,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 0,
+        "button_padding_horizontal_mobile": 22,
+        "button_radius": 6,
+        "button_border_thickness": 1,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_style": "non_outline",
+        "button_position": "bottom",
+        "button_color": "#ffffff",
+        "button_hover_color": "#000000",
+        "button_bg_color": "#5d687e",
+        "button_bg_hover_color": "#a5b2ca",
+        "button_border_color": "#ffffff",
+        "button_border_hover_color": "#ffffff",
+        "icon_color": "#000000",
+        "title_color": "#131313",
+        "text_color": "#131313",
+        "heading_color": "#131313",
+        "image_border_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 76,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 160,
+        "section_radius": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "rich_text_krwFV9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eUwBUV": {
+          "type": "heading",
+          "settings": {
+            "title": "Learn about Creatine"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eUwBUV"
+      ],
+      "custom_css": [
+        ".index-section {margin: 0 0 -30px 0;}",
+        "h2 {font-size: 48px;}",
+        "@media screen and (max-width: 480px) {h2 {font-size: 32px; /* Adjust font size for smaller screens */ }}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "ss_slider_7_WN9BTM": {
+      "type": "ss-slider-7",
+      "blocks": {
+        "card_KA8q3B": {
+          "type": "card",
+          "settings": {
+            "tag": "",
+            "heading": "<h3>Creatine Gummies Failing to Meet Label Claims</h3>",
+            "text": "<p>Learn how to identify fake gummies on the market</p>",
+            "image": "shopify://shop_images/Screen_Shot_2024-11-21_at_9.34.32_pm_0fd371b3-d501-47b8-8efd-cf3271c60569.png",
+            "url": "shopify://blogs/learn-about-creatine/creatine-gummies-failing-to-meet-label-claims",
+            "card_bg_color": "#ffffff",
+            "card_border_color": "#000000",
+            "tag_color": "#6e6e73",
+            "heading_color": "#1d1d1f",
+            "text_color": "#1d1d1f",
+            "image_border_color": "#000000"
+          }
+        },
+        "card_7H8VDm": {
+          "type": "card",
+          "settings": {
+            "tag": "",
+            "heading": "<h3>Creatine for Women</h3>",
+            "text": "<p>Exploring the benefits and misconceptions of creatine supplementation for women</p>",
+            "image": "shopify://shop_images/pexels-pixabay-416747.jpg",
+            "url": "shopify://blogs/learn-about-creatine/creatine-for-women-it-s-benefits-and-misconceptions",
+            "card_bg_color": "#ffffff",
+            "card_border_color": "#000000",
+            "tag_color": "#6e6e73",
+            "heading_color": "#1d1d1f",
+            "text_color": "#1d1d1f",
+            "image_border_color": "#000000"
+          }
+        },
+        "card_GGEamE": {
+          "type": "card",
+          "settings": {
+            "tag": "",
+            "heading": "<h3>Creatine and Energy</h3>",
+            "text": "<p>Learn about the importance of creatine supplementation on ATP reproduction</p>",
+            "image": "shopify://shop_images/ig-square-1080-x-1080-pexels-bamboo-ave-677926128-29205121-jpg_custom_resized.jpg",
+            "url": "shopify://blogs/learn-about-creatine/the-primary-function-of-creatine-supplementation",
+            "card_bg_color": "#ffffff",
+            "card_border_color": "#000000",
+            "tag_color": "#6e6e73",
+            "heading_color": "#1d1d1f",
+            "text_color": "#1d1d1f",
+            "image_border_color": "#000000"
+          }
+        },
+        "card_gLRAHx": {
+          "type": "card",
+          "settings": {
+            "tag": "",
+            "heading": "<h3>Creatine for Vegans</h3>",
+            "text": "<p>Learn the importance of of creatine supplementation for vegans</p>",
+            "image": "shopify://shop_images/1-1-square-pexels-yaroslav-shuraev-8845647-jpg_custom_resized.jpg",
+            "url": "shopify://blogs/learn-about-creatine/the-importance-of-creatine-supplementation-for-vegans",
+            "card_bg_color": "#ffffff",
+            "card_border_color": "#000000",
+            "tag_color": "#6e6e73",
+            "heading_color": "#1d1d1f",
+            "text_color": "#1d1d1f",
+            "image_border_color": "#000000"
+          }
+        },
+        "card_8QAgme": {
+          "type": "card",
+          "settings": {
+            "tag": "",
+            "heading": "<h1>Creatine and Recovery</h1>",
+            "text": "<p>Understanding the impact of creatine supplementation on post-workout recovery</p>",
+            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6388369.jpg",
+            "url": "shopify://blogs/learn-about-creatine/exploring-the-impact-of-creatine-on-post-workout-recovery",
+            "card_bg_color": "#ffffff",
+            "card_border_color": "#000000",
+            "tag_color": "#6e6e73",
+            "heading_color": "#1d1d1f",
+            "text_color": "#1d1d1f",
+            "image_border_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "card_KA8q3B",
+        "card_7H8VDm",
+        "card_GGEamE",
+        "card_gLRAHx",
+        "card_8QAgme"
+      ],
+      "settings": {
+        "slider_view": 3.3,
+        "slider_view_mobile": 1.1,
+        "slider_gap": 18,
+        "slider_gap_mobile": 16,
+        "slider_mt": 18,
+        "slider_mt_mobile": 34,
+        "card_padding_top": 12,
+        "card_padding_top_mobile": 12,
+        "card_padding_bottom": 18,
+        "card_padding_bottom_mobile": 18,
+        "card_radius": 24,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_height": true,
+        "content_horizontal_align": "center",
+        "content_horizontal_align_mobile": "center",
+        "content_padding_horizontal": 12,
+        "content_padding_horizontal_mobile": 12,
+        "tag_custom": false,
+        "tag_font": "josefin_sans_n4",
+        "tag_size": 12,
+        "tag_size_mobile": 12,
+        "tag_height": 130,
+        "heading_custom": false,
+        "heading_font": "helvetica_n4",
+        "heading_size": 26,
+        "heading_size_mobile": 30,
+        "heading_height": 120,
+        "heading_mt": 4,
+        "heading_mt_mobile": 4,
+        "text_custom": false,
+        "text_font": "open_sans_n3",
+        "text_size": 18,
+        "text_size_mobile": 20,
+        "text_height": 120,
+        "text_mt": 18,
+        "text_mt_mobile": 12,
+        "image_mt": 12,
+        "image_mt_mobile": 16,
+        "image_radius": 12,
+        "image_border_thickness": 0,
+        "image_padding_horizontal": 30,
+        "image_padding_horizontal_mobile": 30,
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "pagination_padding_vertical": 4,
+        "pagination_padding_vertical_mobile": 4,
+        "pagination_padding_horizontal": 6,
+        "pagination_padding_horizontal_mobile": 6,
+        "pagination_radius": 8,
+        "pagination_border_thickness": 0,
+        "pagination_custom": false,
+        "pagination_font": "open_sans_n3",
+        "pagination_size": 16,
+        "pagination_size_mobile": 16,
+        "pagination_height": 130,
+        "pagination_show_desktop": false,
+        "pagination_show_mobile": false,
+        "arrow_size": 38,
+        "arrow_size_mobile": 30,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 1,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "pagination_bg_color": "#a5b2ca",
+        "pagination_border_color": "#000000",
+        "pagination_color": "#969696",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#f8f8f8",
+        "arrow_bg_hover_color": "#fafafa",
+        "arrow_border_color": "#a5b2ca",
+        "arrow_border_hover_color": "#5d687e",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 40,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_horizontal": 7,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "hero-video",
+    "ss_feature_1_yQrN4M",
+    "ss_feature_9_YgVWpU",
+    "text_columns_bREaBa",
+    "ss_steps_6_TMiVMp",
+    "faq_hpztPz",
+    "ss_feature_13_PBYdh3",
+    "rich_text_krwFV9",
+    "ss_slider_7_WN9BTM"
+  ]
+}
