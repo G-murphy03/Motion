@@ -1,0 +1,561 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "custom_qFw67F": {
+          "type": "custom",
+          "settings": {
+            "code": "<h4>Pick your size</h4>\n<div class=\"div-button\">\n<button class=\"shop-button\">\n<a href= \"https://elevatesupplements.com.au/collections/creatine-gummies/products/mini-pack-sour-blue-raspberry\">\nMini-Pack\n</a>\n</button>\n<button class=\"shop-button\">\n<a\nhref=\"https://elevatesupplements.com.au/products/value-pack-sour-blue-raspberry\">\nValue-pack\n</a>\n</button>\n</div>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": true
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": false
+          }
+        },
+        "quantity_selector_fCfLaE": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "loop_subscriptions_loop_widget_8FrkYB": {
+          "type": "shopify://apps/loop-subscriptions/blocks/loop_widget/267a7c64-5cb3-4552-b817-5485165f0a0b",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "sales_point_EA7B6n": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Manufactured in the USA in a FDA Registered and GMP Certified Facility"
+          }
+        },
+        "sales_point_zWRWex": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "text": "Vegan Friendly, Gluten Free, Non-GMO"
+          }
+        },
+        "sales_point_YWiDHF": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "text": "Free Shipping on Orders Over $75"
+          }
+        },
+        "description_6dmCxq": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "tab_weBABL": {
+          "type": "tab",
+          "settings": {
+            "title": "Suggested Use",
+            "content": "<p>Enjoy 3 gummies daily</p><p>Exercise & stay well hydrated</p><p>See results & find confidence</p>",
+            "page": ""
+          }
+        },
+        "tab_XzeHDk": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingredients",
+            "content": "<p>Glucose Syrup, Creatine Monohydrate, Sucrose, Pectin, Citric Acid, Sodium Citrate, Malic Acid, Calcium Lactate, Natural Blueberry & Raspberry Flavour, Vegetable Oil, Fruit and Vegetable Juice Concentrate, Stevioside, Allulose, Carnauba Wax</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "custom_qFw67F",
+        "variant_picker",
+        "inventory_status",
+        "quantity_selector_fCfLaE",
+        "loop_subscriptions_loop_widget_8FrkYB",
+        "buy_buttons",
+        "sales_point_EA7B6n",
+        "sales_point_zWRWex",
+        "sales_point_YWiDHF",
+        "description_6dmCxq",
+        "tab_weBABL",
+        "tab_XzeHDk"
+      ],
+      "custom_css": [
+        ".payment-buttons {margin-top: 14px;}",
+        "p {font-size: 18px;}",
+        "h1 {font-size: 46px;}",
+        "li {font-size: 18px;}",
+        "@media screen and (max-width: 480px) {h1 {font-size: 32px; /* Adjust font size for smaller screens */ }}",
+        ".div-button {display: flex; justify-content: space-around;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "description_A7mpnV": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "description_A7mpnV"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "1731937488f1f89995": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_iyNmBM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_iyNmBM"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "custom_css": [
+        ".grid {display: flex; justify-content: center; align-items: center;}",
+        "h3 {font-size: 32px;}",
+        "@media only screen and (min-width: 590px) {.grid-product__title {font-size: calc(var(--typeBaseSize) * 1.18); text-align: center; }}",
+        "@media only screen and (min-width: 590px) {.grid-product__price {font-size: calc(var(--typeBaseSize) * 0.9); text-align: center; }}",
+        "@media only screen and (min-width: 431px) {h3 {font-size: 46px; }}",
+        ".grid-product__title {text-align: center;}",
+        ".grid-product__price {text-align: center;}",
+      ],
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 2,
+        "products_per_row": 3
+      }
+    },
+    "ss_comparison_table_6_VK9UUA": {
+      "type": "ss-comparison-table-6",
+      "blocks": {
+        "table_row_wawKe4": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Convenient",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "check",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_WbPJEw": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Great tasting",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_CwgQHj": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Manufactured in USA",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_r9WpCL": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Transparent Testing Results",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_Ftmj6a": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Backed by Dieticians",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_DyrMMt": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Trusted by Athletes",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "check",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_B3Mx4b": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Tested by an Australian Accredited Laboratory",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "list_item_X4pn3d": {
+          "type": "list_item",
+          "settings": {
+            "text": "Quality"
+          }
+        },
+        "list_item_Jz8aJQ": {
+          "type": "list_item",
+          "settings": {
+            "text": "Transparency"
+          }
+        },
+        "list_item_LYNdhT": {
+          "type": "list_item",
+          "settings": {
+            "text": "Convenience"
+          }
+        }
+      },
+      "block_order": [
+        "table_row_wawKe4",
+        "table_row_WbPJEw",
+        "table_row_CwgQHj",
+        "table_row_r9WpCL",
+        "table_row_Ftmj6a",
+        "table_row_DyrMMt",
+        "table_row_B3Mx4b",
+        "list_item_X4pn3d",
+        "list_item_Jz8aJQ",
+        "list_item_LYNdhT"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 431px) {.fix-heading {font-size: 46px; }}"
+      ],
+      "settings": {
+        "body_gap": 0,
+        "body_gap_mobile": 32,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p>How is Elevate different?</p>",
+        "heading_custom": true,
+        "heading_font": "helvetica_n4",
+        "heading_size": 48,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "text": "<p>At Elevate, we value</p>",
+        "text_custom": false,
+        "text_font": "helvetica_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 6,
+        "list_mt": 20,
+        "list_mt_mobile": 12,
+        "list_gap": 40,
+        "list_gap_mobile": 12,
+        "list_hide_mobile": false,
+        "icon_size": 26,
+        "icon_size_mobile": 22,
+        "icon_margin_right": 16,
+        "list_text_custom": false,
+        "list_text_font": "open_sans_n3",
+        "list_text_size": 20,
+        "list_text_size_mobile": 18,
+        "list_text_height": 130,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 3,
+        "table_mt_mobile": 32,
+        "table_column_active": "1",
+        "table_radius": 16,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 100,
+        "table_heading_image_size_mobile": 80,
+        "first_heading": "Us",
+        "first_heading_image": "shopify://shop_images/LogoWhite_1_copy.png",
+        "second_heading": "Other Gummies",
+        "third_heading": "Powdered Creatine",
+        "four_heading": "Fourth",
+        "table_heading_custom": false,
+        "table_heading_font": "open_sans_n3",
+        "table_heading_size": 16,
+        "table_heading_size_mobile": 13,
+        "table_heading_height": 110,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 6,
+        "table_heading_padding_horizontal_mobile": 6,
+        "table_heading_padding_vertical": 16,
+        "table_heading_padding_vertical_mobile": 16,
+        "table_row_padding_horizontal": 0,
+        "table_row_padding_horizontal_mobile": 4,
+        "table_row_padding_vertical": 20,
+        "table_row_padding_vertical_mobile": 16,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "open_sans_n3",
+        "table_row_heading_size": 16,
+        "table_row_heading_size_mobile": 12,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "center",
+        "table_row_text_custom": false,
+        "table_row_text_font": "open_sans_n3",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 28,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#000000",
+        "text_color": "#000000",
+        "icon_color": "#000000",
+        "list_text_color": "#000000",
+        "button_color": "#ffffff",
+        "button_hover_color": "#dad0ff",
+        "button_bg_color": "#16142b",
+        "button_bg_hover_color": "#16142b",
+        "button_border_color": "#16142b",
+        "button_border_hover_color": "#16142b",
+        "table_border_color": "#1c1d1d",
+        "table_active_border_color": "#ffffff",
+        "table_heading_color": "#1a192e",
+        "table_heading_active_color": "#ffffff",
+        "table_heading_bg_active_color": "#5d687e",
+        "table_column_active_bg_color": "#5d687e",
+        "table_row_heading_color": "#1a192e",
+        "table_row_text_color": "#1a192e",
+        "table_row_active_text_color": "#a5b2ca",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "padding_horizontal": 7,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "faq_yNJPNf": {
+      "type": "faq",
+      "blocks": {
+        "question_ynzdqM": {
+          "type": "question",
+          "settings": {
+            "title": "Who can benefit from Elevate’s creatine gummies?",
+            "text": "<p>Creatine supplementation is beneficial for anyone looking to significantly improve their high-intensity exercise performance (<a href=\"https://doi.org/10.1186/s12970-017-0173-z\" target=\"_blank\" title=\"https://doi.org/10.1186/s12970-017-0173-z\">1</a>). </p><p>It is difficult to maintain elevated creatine stores through diet alone. A normal diet only fills muscle creatine stores by 60 - 80% of their capacity (<a href=\"https://doi.org/10.1186/s12970-017-0173-z\" target=\"_blank\" title=\"https://doi.org/10.1186/s12970-017-0173-z\">1</a>). </p><p>Supplementing 3g creatine increases muscle creatine stores, beneficial for you if you’d like to increase muscle mass, strength, recovery and endurance (<a href=\"https://doi.org/10.1007/978-1-59745-573-2\" target=\"_blank\" title=\"https://doi.org/10.1007/978-1-59745-573-2\">2</a>). </p><p>Learn more about <a href=\"/blogs/learn-about-creatine/exploring-the-impact-of-creatine-on-post-workout-recovery\" title=\"Exploring the Impact of Creatine on Post-Workout Recovery\">the benefits of Creatine Monohydrate</a>.</p>"
+          }
+        },
+        "question_fGUqTf": {
+          "type": "question",
+          "settings": {
+            "title": "When should I expect to see benefits?",
+            "text": "<p>Supplementing 3g creatine daily is sufficient to increase and maintain elevated muscle creatine stores. Muscle creatine stores will incrementally increase over 28 days. Users will notice its benefits within 4 weeks of consistent supplementation (<a href=\"https://doi.org/10.1007/978-1-59745-573-2\" target=\"_blank\" title=\"https://doi.org/10.1007/978-1-59745-573-2\">2</a>).</p>"
+          }
+        },
+        "question_GBcMqW": {
+          "type": "question",
+          "settings": {
+            "title": "What kind of benefits can I expect from taking Elevate’s creatine gummies?",
+            "text": "<p>Phosphocreatine is used for short term energy production. Creatine supplements increase muscle phosphocreatine stores, significantly improving high-intensity exercise performance. </p><p>Creatine benefits include: increased muscle strength (<a href=\"https://doi.org/10.1123/ijsnem.13.2.198\" target=\"_blank\" title=\"https://doi.org/10.1123/ijsnem.13.2.198\">3</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/10731009/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/10731009/\">4</a>), increased muscle size (<a href=\"https://doi.org/10.1016/0140-6736(93)90828-5\" target=\"_blank\" title=\"https://doi.org/10.1016/0140-6736(93)90828-5\">5</a>, <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC155510/\" target=\"_blank\" title=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC155510/\">6</a>), increased muscle endurance (<a href=\"https://doi.org/10.1186/1550-2783-4-6\" target=\"_blank\" title=\"https://doi.org/10.1186/1550-2783-4-6\">1</a>), improved sprinting ability (<a href=\"https://pubmed.ncbi.nlm.nih.gov/10573659/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/10573659/\">7</a>), accelerated recovery (<a href=\"https://doi.org/10.1186/1550-2783-6-13\" target=\"_blank\" title=\"https://doi.org/10.1186/1550-2783-6-13\">8</a>) and enhanced cognition (<a href=\"https://doi.org/10.3390/nu13020586\" target=\"_blank\" title=\"https://doi.org/10.3390/nu13020586\">9</a>).</p>"
+          }
+        },
+        "question_GhwiEP": {
+          "type": "question",
+          "settings": {
+            "title": "What does Elevate’s creatine gummies taste like?",
+            "text": "<p>Elevate’s creatine gummies are sour blue raspberry flavour, which comes from real natural fruit extract. There are no artificial sweeteners used in our product.</p><p>We love our product. Don’t trust us? Check our reviews to see what our customers have been saying. </p><p>Expect more flavours soon.</p>"
+          }
+        },
+        "question_cfjWcM": {
+          "type": "question",
+          "settings": {
+            "title": "What measures does Elevate take to ensure the quality their gummies?",
+            "text": "<p>Quality is our biggest consideration. We feel that consumers should trust that what they’re putting into their body is safe, effective and free from harmful additives or contaminants.</p><p>For us, this includes manufacturing in an FDA-approved and GMP certified manufacturing facility. Independent product testing at accredited Australian laboratories for creatine quantity and WADA banned substances. All <a href=\"https://elevatesupplements.com.au/pages/elevate-lab\" title=\"Elevate Lab\">our test results</a> made public.</p><p>We’re proud of our product and love to share the considerations we take in every step of the process. We urge other brands to demonstrate similar diligence to help others improve their health.</p>"
+          }
+        },
+        "question_CJbR7V": {
+          "type": "question",
+          "settings": {
+            "title": "How do I take Elevate’s creatine gummies?",
+            "text": "<p>Elevate’s creatine gummies are a creatine monohydrate supplement made powerfully simple and practical.</p><p>You can take Elevate’s creatine gummies at any time and anywhere! To use, enjoy 3 gummies for a 3-gram serving of creatine monohydrate. Stay well hydrated and exercise regularly.</p><p>We recommend Elevate’s creatine gummies to be stored below 25°C and away from direct sunlight.</p>"
+          }
+        },
+        "question_DMDzMM": {
+          "type": "question",
+          "settings": {
+            "title": "Is a loading phase required with Elevate's creatine gummies?",
+            "text": "<p>A ‘loading phase’ is a common approach to creatine supplementation where users take 20 g per day for a week to quickly increase muscle creatine stores. </p><p>While this method shows short-term benefits, research shows that long-term supplementation of just 3 g per day is just as effective for maintaining elevated creatine levels (<a href=\"https://doi.org/10.1186/s12970-017-0173-z\" target=\"_blank\" title=\"https://doi.org/10.1186/s12970-017-0173-z\">1</a>). </p><p>After 4 weeks of daily supplementation a lower 3 g does is sufficient to achieve the same results, making it a more sustainable and cost-effective approach (<a href=\"https://doi.org/10.1007/978-1-59745-573-2\" target=\"_blank\" title=\"https://doi.org/10.1007/978-1-59745-573-2\">2</a>). </p><p>Credible bodies recommended habitual low dosage (e.g. 3g) creatine ingestion for long term benefit. </p>"
+          }
+        },
+        "question_DfH3Rf": {
+          "type": "question",
+          "settings": {
+            "title": "Should I take creatine?",
+            "text": "<p>The <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/\">International Society of Sports Nutrition (ISSN)</a> regards creatine as safe and concludes it to be the most beneficial sports supplement available. Creatine is one of the most researched supplements, consistently shown to be an effective supplement that is safe when used as directed. </p><p>Creatine is for individuals interested in increasing muscle mass, strength, recovery and endurance (<a href=\"https://doi.org/10.1186/s12970-017-0173-z\" target=\"_blank\" title=\"https://doi.org/10.1186/s12970-017-0173-z\">1</a>). </p>"
+          }
+        },
+        "question_E3in9X": {
+          "type": "question",
+          "settings": {
+            "title": "Can women take creatine?",
+            "text": "<p>Creatine supplementation provides the same performance related benefits to both men and women. </p><p>There are also benefits exclusive to women as it is effective in mitigating the effects of physiological changes during a women’s menstrual cycle (<a href=\"https://doi.org/10.3390/nu15163567\" target=\"_blank\" title=\"https://doi.org/10.3390/nu15163567\">10</a>).</p><p>During the second half of a woman's menstrual cycle (luteal phase), estrogen and progesterone levels are higher, which causes several changes in the body, such as protein breakdown for energy, fluid imbalance and a decreased heart rate. </p><p>Supplementing creatine helps reduce the impact of protein breakdown and dehydration by providing a stabilising effect on energy production, hydration, and performance during the luteal phase (<a href=\"https://doi.org/10.3390/nu15163567\" target=\"_blank\" title=\"https://doi.org/10.3390/nu15163567\">10</a>, <a href=\"https://doi.org/10.3390/nu15020429\" target=\"_blank\" title=\"https://doi.org/10.3390/nu15020429\">11</a>).</p><p>Learn more about the <a href=\"/blogs/learn-about-creatine/creatine-for-women-it-s-benefits-and-misconceptions\" target=\"_blank\" title=\"Creatine for women: it’s benefits and misconceptions\">benefits of creatine supplementation for women</a>.</p>"
+          }
+        },
+        "question_nHkCXX": {
+          "type": "question",
+          "settings": {
+            "title": "Can older people take creatine?",
+            "text": "<p>Aging decreases muscle creatine stores, muscle mass, bone density and strength. There is evidence that supports creatine to reverse these changes and subsequently improve daily life. </p><p>Studies have demonstrated in older adults creatine supplementation independent of exercise training increased body mass, fatigue resistance, muscle strength and performance of daily living activities (<a href=\"https://pubmed.ncbi.nlm.nih.gov/21394604/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/21394604/\">12</a>).<br/><br/>And, have shown creatine supplementation to improve neuropsychological performance by increasing brain creatine (<a href=\"https://pubmed.ncbi.nlm.nih.gov/21394604/\" target=\"_blank\" title=\"https://pubmed.ncbi.nlm.nih.gov/21394604/\">12</a>).</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_ynzdqM",
+        "question_fGUqTf",
+        "question_GBcMqW",
+        "question_GhwiEP",
+        "question_cfjWcM",
+        "question_CJbR7V",
+        "question_DMDzMM",
+        "question_DfH3Rf",
+        "question_E3in9X",
+        "question_nHkCXX"
+      ],
+      "custom_css": [
+        "p {font-size: 18px;}",
+        "h2 {font-size: 32px;}",
+        "@media only screen and (min-width: 431px) {h2 {font-size: 46px; }}"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "1731937488f1f89995",
+    "product-recommendations",
+    "ss_comparison_table_6_VK9UUA",
+    "faq_yNJPNf",
+    "collection-return"
+  ]
+}
