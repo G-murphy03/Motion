@@ -23,7 +23,7 @@
         "custom_qFw67F": {
           "type": "custom",
           "settings": {
-            "code": "<h4>Pick your size</h4>\n<div class=\"div-button\">\n<button class=\"shop-button select-button\">Mini Pack - 10 Day Supply\n</button>\n<a\nhref=\"https://elevatesupplements.com.au/products/value-pack-sour-blue-raspberry\">\n<button class=\"shop-button chosen-button\">\nValue Pack - 1 Month Supply\n</button>\n</a> <a href=\"https://elevatesupplements.com.au/products/bundle-pack\">\n<button class=\"shop-button chosen-button\">\nBundle Pack - 2 Month Supply\n</button>\n</a></div>"
+            "code": "<h4>Pick your size</h4>\n<div class=\"div-button\">\n<button class=\"shop-button select-button\">Mini Pack - 10 Day Supply\n</button>\n<a\nhref=\"https://elevatesupplements.com.au/products/value-pack-sour-blue-raspberry\">\n<button class=\"shop-button chosen-button\">\nValue Pack - 1 Month Supply\n</button>\n</a> <a href=\"https://elevatesupplements.com.au/products/bundle-pack\">\n<button class=\"shop-button chosen-button\">\nBundle Pack - 2 Month Supply (10% off)\n</button>\n</a></div>"
           }
         },
         "variant_picker": {
