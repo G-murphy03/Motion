@@ -816,6 +816,13 @@
         "section_radius": 0,
         "lazy": true
       }
+    },
+    "1735522100925a42d7": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -827,6 +834,7 @@
     "faq_hpztPz",
     "ss_feature_13_PBYdh3",
     "rich_text_krwFV9",
-    "ss_slider_7_WN9BTM"
+    "ss_slider_7_WN9BTM",
+    "1735522100925a42d7"
   ]
 }
