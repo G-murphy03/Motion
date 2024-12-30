@@ -559,23 +559,6 @@
         "full_width": false,
         "space_around": true
       }
-    },
-    "ss_payment_icons_jxxyaz": {
-      "type": "ss-payment-icons",
-      "settings": {
-        "payment_position": "below_title",
-        "use_payments_store": false,
-        "payment_title": "Safe payment on our website",
-        "color": "",
-        "text_size": 16,
-        "icon_size": 60,
-        "icon_size_mobile": 60,
-        "icon_gap": 0,
-        "icon_gap_mobile": 0,
-        "mt": 0,
-        "mb": 2,
-        "bg_color": ""
-      }
     }
   },
   "order": [
@@ -586,7 +569,6 @@
     "1731937488f1f89995",
     "product-recommendations",
     "collection-return",
-    "17322705723f79563b",
-    "ss_payment_icons_jxxyaz"
+    "17322705723f79563b"
   ]
 }
