@@ -104,10 +104,6 @@
             "content": "<p>Glucose Syrup, Creatine Monohydrate, Sucrose, Pectin, Citric Acid, Sodium Citrate, Malic Acid, Calcium Lactate, Natural Blueberry & Raspberry Flavour, Vegetable Oil, Fruit and Vegetable Juice Concentrate, Stevioside, Allulose, Carnauba Wax</p>",
             "page": ""
           }
-        },
-        "judge_me_reviews_review_snippet_widget_mCwQw7": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_snippet_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
         }
       },
       "block_order": [
@@ -125,8 +121,7 @@
         "sales_point_YWiDHF",
         "description_6dmCxq",
         "tab_weBABL",
-        "tab_XzeHDk",
-        "judge_me_reviews_review_snippet_widget_mCwQw7"
+        "tab_XzeHDk"
       ],
       "custom_css": [
         ".payment-buttons {margin-top: 14px;}",
@@ -184,6 +179,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "custom_css": [
         ".grid {display: flex; justify-content: center; align-items: center;}",
         "h3 {font-size: 32px;}",
