@@ -230,6 +230,9 @@
         "item_eJTMTi",
         "item_NiLbXd"
       ],
+      "custom_css": [
+        "@media (max-width: 768px) {#ss-payment-icons {display: flex; flex-wrap: wrap; justify-content: center; align-items: center; text-align: center; } #ss-payment-icons img {margin: 5px; /* Adjust spacing between icons */ }}"
+      ],
       "settings": {
         "payment_position": "above_buy",
         "use_payments_store": false,
