@@ -64,6 +64,7 @@
         },
         "custom_zbwhNj": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "code": "<div id='ss-payment-icons'></div>"
           }
