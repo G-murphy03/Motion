@@ -161,40 +161,6 @@
         "max_width": true
       }
     },
-    "1731937488f1f89995": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_iyNmBM": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_iyNmBM"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "disabled": true,
-      "custom_css": [
-        ".grid {display: flex; justify-content: center; align-items: center;}",
-        "h3 {font-size: 32px;}",
-        "@media only screen and (min-width: 590px) {.grid-product__title {font-size: calc(var(--typeBaseSize) * 1.18); text-align: center; }}",
-        "@media only screen and (min-width: 590px) {.grid-product__price {font-size: calc(var(--typeBaseSize) * 0.9); text-align: center; }}",
-        "@media only screen and (min-width: 431px) {h3 {font-size: 46px; }}",
-        ".grid-product__title {text-align: center;}",
-        ".grid-product__price {text-align: center;}"
-      ],
-      "settings": {
-        "product_recommendations_heading": "You may also like",
-        "related_count": 2,
-        "products_per_row": 3
-      }
-    },
     "ss_comparison_table_6_VK9UUA": {
       "type": "ss-comparison-table-6",
       "blocks": {
@@ -452,6 +418,40 @@
         "lazy": true
       }
     },
+    "1731937488f1f89995": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_iyNmBM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_iyNmBM"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "custom_css": [
+        ".grid {display: flex; justify-content: center; align-items: center;}",
+        "h3 {font-size: 32px;}",
+        "@media only screen and (min-width: 590px) {.grid-product__title {font-size: calc(var(--typeBaseSize) * 1.18); text-align: center; }}",
+        "@media only screen and (min-width: 590px) {.grid-product__price {font-size: calc(var(--typeBaseSize) * 0.9); text-align: center; }}",
+        "@media only screen and (min-width: 431px) {h3 {font-size: 46px; }}",
+        ".grid-product__title {text-align: center;}",
+        ".grid-product__price {text-align: center;}"
+      ],
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 2,
+        "products_per_row": 3
+      }
+    },
     "faq_yNJPNf": {
       "type": "faq",
       "blocks": {
@@ -564,10 +564,10 @@
   "order": [
     "main",
     "sub",
-    "1731937488f1f89995",
-    "product-recommendations",
     "ss_comparison_table_6_VK9UUA",
     "faq_yNJPNf",
+    "1731937488f1f89995",
+    "product-recommendations",
     "collection-return",
     "17322705723f79563b"
   ]
